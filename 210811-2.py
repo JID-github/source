@@ -20,4 +20,5 @@ def insertData() :
         messagebox.showerror('오류', '데잍 입력 오류가 발생함')
     else :
         messagebox.showinfo('성공', '데이터 입력 성공')
+        
     
