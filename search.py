@@ -25,5 +25,3 @@ while (True) :
     print("%10s   %10s   %15s   %5d" % (data1, data2, data3, data4))
 
 con.close()
-
-# 123

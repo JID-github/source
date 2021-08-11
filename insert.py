@@ -21,5 +21,3 @@ while (True) :
 
 con.commit()
 con.close()
-
-# 123
